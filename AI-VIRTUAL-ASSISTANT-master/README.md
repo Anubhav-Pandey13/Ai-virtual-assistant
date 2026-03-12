@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Python AI Virtual Assistant</h1>
 
-<p align="center"><img src="https://socialify.git.ci/virendeep2601/AI-VIRTUAL-ASSISTANT/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Anubhav/AI-VIRTUAL-ASSISTANT/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">Python Script to take voice as an input and perform certain defined operations out of it. Miniature version of Google Home Amazon Alexa and other AI voice controlled systems.</p>
 
